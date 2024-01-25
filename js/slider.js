@@ -1,22 +1,47 @@
 let slide_data = [
   {
-    'src':'https://images.unsplash.com/photo-1506765336936-bb05e7e06295?ixlib=rb-0.3.5&s=d40582dbbbb66c7e0812854374194c2e&auto=format&fit=crop&w=1050&q=80',
+    'src':'/slider/1.jpg',
     'title':'Slide 1',
     'copy':'DOLOR SIT AMET, CONSECTETUR ADIPISCING ELIT.'
   },
   {
-    'src':'https://images.unsplash.com/photo-1496309732348-3627f3f040ee?ixlib=rb-0.3.5&s=4d04f3d5a488db4031d90f5a1fbba42d&auto=format&fit=crop&w=1050&q=80', 
-    'title':'Slide 2',
+    'src':'/slider/2.jpg',
+    'title':'Slide 1',
     'copy':'DOLOR SIT AMET, CONSECTETUR ADIPISCING ELIT.'
   },
   {
-    'src':'https://images.unsplash.com/photo-1504271863819-d279190bf871?ixlib=rb-0.3.5&s=7a2b986d405a04b3f9be2e56b2be40dc&auto=format&fit=crop&w=334&q=80', 
-    'title':'Slide 3',
+    'src':'/slider/3.jpg',
+    'title':'Slide 1',
     'copy':'DOLOR SIT AMET, CONSECTETUR ADIPISCING ELIT.'
   },
   {
-    'src':'https://images.unsplash.com/photo-1478728073286-db190d3d8ce6?ixlib=rb-0.3.5&s=87131a6b538ed72b25d9e0fc4bf8df5b&auto=format&fit=crop&w=1050&q=80', 
-    'title':'Slide 4',
+    'src':'/slider/4.jpg',
+    'title':'Slide 1',
+    'copy':'DOLOR SIT AMET, CONSECTETUR ADIPISCING ELIT.'
+  },
+  {
+    'src':'/slider/5.jpg',
+    'title':'Slide 1',
+    'copy':'DOLOR SIT AMET, CONSECTETUR ADIPISCING ELIT.'
+  },
+  {
+    'src':'/slider/6.jpg',
+    'title':'Slide 1',
+    'copy':'DOLOR SIT AMET, CONSECTETUR ADIPISCING ELIT.'
+  },
+  {
+    'src':'/slider/7.jpg',
+    'title':'Slide 1',
+    'copy':'DOLOR SIT AMET, CONSECTETUR ADIPISCING ELIT.'
+  },
+  {
+    'src':'/slider/8.jpg',
+    'title':'Slide 1',
+    'copy':'DOLOR SIT AMET, CONSECTETUR ADIPISCING ELIT.'
+  },
+  {
+    'src':'/slider/9.jpg',
+    'title':'Slide 1',
     'copy':'DOLOR SIT AMET, CONSECTETUR ADIPISCING ELIT.'
   },
   
