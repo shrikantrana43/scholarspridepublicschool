@@ -52,7 +52,7 @@ let slides = [],
 let autoplay = setInterval(function(){
   nextSlide();
 },5000);
-let container = document.getElementById('container');
+let container = document.getElementById('slider-container');
 let leftSlider = document.getElementById('left-col');
 // console.log(leftSlider);
 let down_button = document.getElementById('down_button');
