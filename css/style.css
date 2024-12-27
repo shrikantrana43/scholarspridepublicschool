@@ -9864,3 +9864,8 @@ a.text-dark:hover, a.text-dark:focus {
   padding: 0;
   list-style-type: none;
 }
+
+marquee{
+      font-weight: 600;
+      color: red;
+      }
